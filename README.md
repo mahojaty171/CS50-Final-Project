@@ -1,6 +1,6 @@
 # BotVote
 
-#### Video Demo: [https://www.youtube.com/watch?v=TThHMmCL6Fo]
+#### Video Demo: https://www.youtube.com/watch?v=TThHMmCL6Fo
 #### Description:
 **BotVote** is a Telegram bot that allows users to vote on their mood and view the mood statistics over time. Users can vote once per day, and the results are stored in a database. The bot can then generate a chart showing the distribution of moods over time, which is sent back to the user along with a message describing the most common mood of the day.
 
